@@ -55,7 +55,7 @@
 ---
 
 #### 🏢 **STPL Pvt. Ltd. (Lucknow) — Software Engineer**  
-📆 *Sep 2013 – Jan 2019*  
+📆 *Sep 2016 – Jan 2019*  
 - Delivered software across **finance, healthcare, and education sectors**.  
 - Developed BI dashboards using **Power BI** and ASP.NET MVC.  
 *Tech:* ASP.NET MVC, LINQ, SQL Server, Kendo UI, Power BI  
